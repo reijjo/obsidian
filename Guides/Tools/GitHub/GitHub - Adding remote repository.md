@@ -13,8 +13,7 @@
 5. Rename the branch to _main_ `git branch -M main`
 6. Then copy the _SSH URL_ from GitHub repository `git@github.com:username/folder.git`
 7. Add connect it `git remote add origin git@github.com:username/folder.git
-8. Run `git fetch origin` because of the _README.md_ file that we made in the repo
-9. Then push `git push -u origin main`
+8. Then push `git push -u origin main`
 
 ## Related
 - [[GitHub]]
